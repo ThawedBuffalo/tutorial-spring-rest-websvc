@@ -1,11 +1,10 @@
-package tbs.tutorialspringrestwebsevc.controller;
+package tbs.tutorialspringrestwebsvc.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import lombok.extern.slf4j.XSlf4j;
 import org.springframework.stereotype.Controller;
-import tbs.tutorialspringrestwebsevc.model.Beer;
-import tbs.tutorialspringrestwebsevc.services.BeerService;
+import tbs.tutorialspringrestwebsvc.model.Beer;
+import tbs.tutorialspringrestwebsvc.services.BeerService;
 
 import java.util.UUID;
 

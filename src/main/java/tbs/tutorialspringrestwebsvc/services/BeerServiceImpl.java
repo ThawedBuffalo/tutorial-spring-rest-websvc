@@ -1,9 +1,9 @@
-package tbs.tutorialspringrestwebsevc.services;
+package tbs.tutorialspringrestwebsvc.services;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import tbs.tutorialspringrestwebsevc.model.Beer;
-import tbs.tutorialspringrestwebsevc.model.BeerStyle;
+import tbs.tutorialspringrestwebsvc.model.Beer;
+import tbs.tutorialspringrestwebsvc.model.BeerStyle;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

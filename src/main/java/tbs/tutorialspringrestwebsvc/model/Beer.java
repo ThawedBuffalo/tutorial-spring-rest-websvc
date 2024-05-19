@@ -1,4 +1,4 @@
-package tbs.tutorialspringrestwebsevc.model;
+package tbs.tutorialspringrestwebsvc.model;
 
 import lombok.Builder;
 import lombok.Data;

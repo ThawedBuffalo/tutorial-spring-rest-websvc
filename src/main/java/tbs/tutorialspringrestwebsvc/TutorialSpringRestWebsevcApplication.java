@@ -1,4 +1,4 @@
-package tbs.tutorialspringrestwebsevc;
+package tbs.tutorialspringrestwebsvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
